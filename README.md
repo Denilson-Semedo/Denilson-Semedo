@@ -1,5 +1,5 @@
 ### Hi there 🙂
-My name is Denilson Tavares from Cabo Verde (cv). I'm a student of computer engineering, i'm currently learning the react framework and it's been a great experience. I'm passionate about the web development, so I've study/create some projects and I've always loved to produce a lot of content during my career.
+My name is Denilson Tavares from Cabo Verde 🇨🇻. I'm a student of computer engineering, i'm currently learning the react framework and it's been a great experience. I'm passionate about the web development, so I've study/create some projects and I've always loved to produce a lot of content during my career.
 
 In my free time I like to listen to music (🎵), to watch documentaries (🎞️),to play (and watch) soccer (⚽️), to read some books (📚).
 
