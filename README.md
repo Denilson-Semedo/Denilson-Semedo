@@ -13,6 +13,14 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <img align="left" alt="Arduino" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
 <br />
 
+<br />
+<br />
+<p align="center">
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
+  </a>
+</p>
+
 ### You can find me on 👇🏽
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_dtavrs_) 
