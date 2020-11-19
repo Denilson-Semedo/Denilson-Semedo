@@ -14,7 +14,6 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <br />
 <br />
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
-<br />
 
 ### You can find me on 👇🏽
 
