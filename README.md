@@ -14,12 +14,9 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <br />
 <br />
 <br />
-<p align="center">
-  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
-  </a>
-</p>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo" />
 <br />
+
 ### You can find me on 👇🏽
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_dtavrs_) 
