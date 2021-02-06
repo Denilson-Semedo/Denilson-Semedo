@@ -16,6 +16,8 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <img align="left" alt="Elasticsearch" width="35px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt850b5bd506c6b3ce/5d0cfe28d8ff351753cbf2ad/logo-elastic-search-color-64.svg" />
 <img align="left" alt="Kibana" width="35px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt38b131256d241912/5d0cfe3a970556dd5800ebfe/logo-kibana-64-color.svg" />
 <br />
+<br />
+<br />
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
 
 ### You can find me on 👇🏽
