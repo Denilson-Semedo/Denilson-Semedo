@@ -6,11 +6,18 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 ### I am currently learning:
 
 <img align="left" alt="Angular" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
-<img align="left" alt="Logstash" width="35px" src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" />
-<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
+<img align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
+<br />
+
+
+### And the Elastic Stack:
+
+<img align="left" alt="Logstash" width="35px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt8d79255492e03260/5d0cfe54561b9b0b537f94e8/logo-logstash-64-color.svg" />
+<img align="left" alt="Elasticsearch" width="35px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt850b5bd506c6b3ce/5d0cfe28d8ff351753cbf2ad/logo-elastic-search-color-64.svg" />
+<img align="left" alt="Kibana" width="35px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt38b131256d241912/5d0cfe3a970556dd5800ebfe/logo-kibana-64-color.svg" />
 <br />
 <br />
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
