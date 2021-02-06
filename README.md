@@ -1,9 +1,9 @@
-### Hi there 🙂
+## Hi there 🙂
 My name is Denilson Tavares from Cabo Verde 🇨🇻. I'm a student of computer engineering, i'm currently learning the react framework and it's been a great experience. I'm passionate about the web development, so I've study/create some projects and I've always loved to produce a lot of content during my career.
 
 In my free time I like to listen to music (🎵), to watch documentaries (🎞️),to play (and watch) soccer (⚽️), to read some books (📚).
 <br />
-### I am currently learning:
+## I am currently learning:
 <img align="left" alt="Angular" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -20,7 +20,7 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <br />
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
 
-### You can find me on 👇🏽
+## You can find me on 👇🏽
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_dtavrs_) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/DenilsonSemedo2)
