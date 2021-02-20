@@ -3,6 +3,9 @@ My name is Denilson Tavares from Cabo Verde 🇨🇻. I'm a student of computer 
 
 In my free time I like to listen to music (🎵), to watch documentaries (🎞️),to play (and watch) soccer (⚽️), to read some books (📚).
 <br />
+<br />
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C41XK7F)
+<br />
 ## I am currently learning:
 <img align="left" alt="Angular" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
@@ -20,11 +23,14 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <br />
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
 
+
+
 ## You can find me on 👇🏽
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_dtavrs_) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/DenilsonSemedo2)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-semedo-tavares-662587197/)
+
 
 
 <!--
