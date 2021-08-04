@@ -24,7 +24,7 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <p>
     <a href="https://github.com/Jardel-S/github-readme-streak-stats">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Denilson's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Denilson-Semedo&theme=omni&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img align="right" width="420px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Denilson's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Denilson-Semedo&theme=omni&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
