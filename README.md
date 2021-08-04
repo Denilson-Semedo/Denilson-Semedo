@@ -1,4 +1,4 @@
-## Hi there 🙂
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Denilson Tavares from Cabo Verde 🇨🇻. I'm a student of computer engineering, i'm currently learning the react framework and it's been a great experience. I'm passionate about the web development, so I've study/create some projects and I've always loved to produce a lot of content during my career.
 
 In my free time I like to listen to music (🎵), to watch documentaries (🎞️),to play (and watch) soccer (⚽️), to read some books (📚).
@@ -27,8 +27,6 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Denilson's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Denilson-Semedo&theme=omni&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
 
 <!--
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
