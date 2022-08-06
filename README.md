@@ -16,8 +16,8 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <br />
 <br />
 <p>
-    <a href="https://github.com/Jardel-S/github-readme-streak-stats">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ruben-JR&layout=compact&theme=radical" />
+    <a href="https://github.com/Denilson-Semedo>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical" />
         <img align="right" width="420px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Denilson's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Denilson-Semedo&theme=omni&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -26,7 +26,7 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 ### ✔ Github Stats
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Ruben-JR&show_icons=true)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Denilson-Semedo&show_icons=true)
 -->
 <!--
 **Denilson-Semedo/Denilson-Semedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
