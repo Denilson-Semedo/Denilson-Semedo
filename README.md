@@ -3,7 +3,7 @@ I'm Denilson. I'm a student of software engineering. I'm passionate about the de
 
 In my free time I like to listen to music (🎵), to watch documentaries (🎞️),to play (and watch) soccer (⚽️), to read some books (📚).
 <br />
-## Skills:
+## Skills
 Backend
 <br />
 [![My Skills](https://skills.thijs.gg/icons?i=java,py,flask&theme=dark)](https://skills.thijs.gg)
