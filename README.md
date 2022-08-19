@@ -14,11 +14,11 @@ FrontEnd
 <br />
 DataBase
 <br />
-[![My Skills](https://skills.thijs.gg/icons?i=mysql,postgres&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql,postgres,firebase&theme=dark)](https://skills.thijs.gg)
 <br />
 Others
 <br />
-[![My Skills](https://skills.thijs.gg/icons?i=figma,docker,git,vim,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=figma,docker,git,vim,androidstudio,linux,&theme=dark)](https://skills.thijs.gg)
 <!--
 <p>
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Denilson-Semedo&layout=compact&theme=radical"/>
