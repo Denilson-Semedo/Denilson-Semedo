@@ -6,7 +6,7 @@ In my free time I like to listen to music (🎵), to watch documentaries (🎞�
 ## Skills:
 Backend
 <br />
-[![My Skills](https://skills.thijs.gg/icons?i=java,py&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,py,flask&theme=dark)](https://skills.thijs.gg)
 <br />
 FrontEnd
 <br />
