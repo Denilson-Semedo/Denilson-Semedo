@@ -1,21 +1,23 @@
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ```yaml
-name: "Denilson Tavares"
-study_field: "Software Engineering"
-located_in: "Somewhere in the Macaronesia ecoregion"
+{
+   name: "Denilson Tavares"
+   study_field: "Software Engineering"
+   located_in: "Somewhere in the Macaronesia ecoregion"
 
-fields_of_interest: ["Backend", "devOps", "Software Architecture"]
+   fields_of_interest: ["Backend", "devOps", "Software Architecture"]
 
-currently_learning: [
-        "Python",
-        "Java",
-        "Docker",
-        "Linux",
-        "Postgresql",
-        "GitHub Actions"
-]
+   currently_learning: [
+      "Python",
+      "Java",
+      "Docker",
+      "Linux",
+      "Postgresql",
+      "GitHub Actions"
+   ]
 
-hobbies: ["Soccer", "Gaming", "Geopolitics"]
+   hobbies: ["Soccer", "Gaming", "Geopolitics"]
+}
 ```
 <!--
 <br />
