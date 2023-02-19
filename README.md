@@ -3,7 +3,7 @@
 {
    name: "Denilson Tavares"
    study_field: "Software Engineering"
-   located_in: "Somewhere in the Macaronesia ecoregion"
+   located_in: "Somewhere in the Atlantic Ocean"
 
    fields_of_interest: ["Backend", "devOps", "Software Architecture"]
 
