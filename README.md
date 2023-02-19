@@ -1,11 +1,11 @@
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-```yaml
+```json
 {
-   name: "Denilson Tavares",
-   study_field: "Software Engineering",
-   located_in: "Somewhere in the Atlantic Ocean",
-   fields_of_interest: ["Backend", "devOps", "Software Architecture"],
-   currently_learning: [
+   "name": "Denilson Tavares",
+   "study_field": "Software Engineering",
+   "located_in": "Somewhere in the Atlantic Ocean",
+   "fields_of_interest": ["Backend", "devOps", "Software Architecture"],
+   "currently_learning": [
       "Python",
       "Java",
       "Docker",
@@ -13,7 +13,7 @@
       "Postgresql",
       "GitHub Actions"
    ],
-   hobbies: ["Soccer", "Gaming", "Geopolitics"]
+   "hobbies": ["Soccer", "Gaming", "Geopolitics"]
 }
 ```
 <!--
