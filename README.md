@@ -6,12 +6,14 @@
    "located_in": "Somewhere in the Atlantic Ocean",
    "fields_of_interest": ["Backend", "DevOps", "Software Architecture"],
    "currently_learning": [
-      "Python",
-      "Java",
+      "Python": ["FastAPI", "Django", "Flask"],
+      "Web Scraping",
+      "Web Crawling",
+      "Airflow",
+      "ETL",
       "Docker",
       "Linux",
       "Postgresql",
-      "GitHub Actions"
    ],
    "hobbies": ["Soccer", "Gaming", "Geopolitics"]
 }
