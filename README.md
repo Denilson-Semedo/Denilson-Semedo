@@ -6,7 +6,7 @@
    "located_in": "Somewhere in the Atlantic Ocean",
    "fields_of_interest": ["Backend", "DevOps", "Software Architecture"],
    "currently_learning": [
-      "Python": ["FastAPI", "Django", "Flask"],
+      "Python": ["FastAPI", "Django", "Flask", "Scrapy"],
       "Web Scraping",
       "Web Crawling",
       "Airflow",
