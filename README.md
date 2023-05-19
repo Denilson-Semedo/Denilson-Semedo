@@ -8,7 +8,6 @@
    "currently_learning": [
       "Python": ["FastAPI", "Django", "Flask", "Scrapy"],
       "Web Scraping",
-      "Web Crawling",
       "Airflow",
       "ETL",
       "Docker",
