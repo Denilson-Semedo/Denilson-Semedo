@@ -5,7 +5,7 @@
    "study_field": "Software Engineering",
    "located_in": "Somewhere in the Atlantic Ocean",
    "fields_of_interest": ["Backend", "DevOps", "Software Architecture"],
-   "currently_learning": [
+   "currently_learning": {
       "Python": ["FastAPI", "Django", "Flask", "Scrapy"],
       "Web Scraping",
       "Airflow",
@@ -13,7 +13,7 @@
       "Docker",
       "Linux",
       "Postgresql",
-   ],
+   },
    "hobbies": ["Soccer", "Gaming", "Geopolitics"]
 }
 ```
