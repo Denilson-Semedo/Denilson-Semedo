@@ -14,7 +14,7 @@
       "Linux",
       "Postgresql",
    },
-   "hobbies": ["Soccer", "Gaming", "Geopolitics"]
+   "Fav Quote": "Don't wish for less challenges, wish for more wisdom. (John Earl Shoaff)"
 }
 ```
 <!--
