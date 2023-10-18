@@ -13,6 +13,8 @@
       "Docker",
       "Linux",
       "Postgresql",
+      "MongoDB",
+      "Redis"
    },
    "Fav Quote": "Don't wish for less challenges, wish for more wisdom. (John Earl Shoaff)"
 }
