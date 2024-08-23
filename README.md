@@ -12,4 +12,4 @@
 }
 ```
 
-My anottations as a software engineering: https://gist.github.com/Denilson-Semedo
+My software engineering notes: https://gist.github.com/Denilson-Semedo
