@@ -11,3 +11,5 @@
    "Fav Quote": "Don’t wish for less problems, wish for more skills. (John Earl Shoaff)"
 }
 ```
+
+My anottations as a software engineering: https://gist.github.com/Denilson-Semedo
