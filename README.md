@@ -8,7 +8,7 @@
                           "DevOps",
                           "Software Architecture",
                           "API Security"],
-   "Fav Quote": "Don’t wish for less problems, wish for more skills. (John Earl Shoaff)"
+   "Fav Quote": "Don't wish it was easier, wish you were better. (Jim Rohn)"
 }
 ```
 
