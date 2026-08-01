@@ -11,8 +11,8 @@
   ],
   "currently_learning": [
     "Spring Boot",
-    "langchain",
-    "langgraph"
+    "LangChain",
+    "LangGraph"
   ],
   "fav_quote": "Don’t wish it were easier, wish you were better. (Jim Rohn)"
 }
@@ -33,5 +33,5 @@ My software engineering notes: https://gist.github.com/Denilson-Semedo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="java" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35" height="35"/>
 </p>
